@@ -1,4 +1,8 @@
 <?php
+//Este es el cambio que vamos a realizar, vamos a añadir estas dos líneas de
+//comentario al código, y comprobaremos que se actualiza en GitHub 
+
+
 
 /** Esta función calcula el Índice de Masa Corporal (IMC), el cual se obtiene dividiendo
 * el peso en kg entre la altura al cuadrado en metros. Devuelve una cadena de texto que 
